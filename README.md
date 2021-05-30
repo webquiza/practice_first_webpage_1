@@ -3,8 +3,8 @@
 #### _This is short description of this webpage_
 
 #### By _**Alex Bertotto**_
-_**Mary Marks**_
-_**Carlos Urquiza**_
+#### _**Mary Marks**_
+#### _**Carlos Urquiza**_
 
 ## Technologies Used
 
